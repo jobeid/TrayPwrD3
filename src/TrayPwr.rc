@@ -108,11 +108,11 @@ END
 
 IDD_ABOUTBOX DIALOGEX 0, 0, 268, 188
 STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION | WS_SYSMENU
-CAPTION "Tray Power Help"
+CAPTION "TrayPower D3 Help"
 FONT 8, "MS Sans Serif", 0, 0, 0x0
 BEGIN
     DEFPUSHBUTTON   "&OK",IDOK,206,64,56,15,WS_GROUP
-    LTEXT           "Tray Power D3 (Keeps dGPU on/idle)\nVersion 1.5.0.0",IDC_STATIC,36,7,154,17,NOT WS_GROUP
+    LTEXT           "TrayPower D3 (Keeps dGPU on/idle)\nVersion 1.6.0.0",IDC_STATIC,36,7,154,17,NOT WS_GROUP
     LTEXT           "Copyright © 2017  J. S. Obeid",IDC_STATIC,36,23,167,9,NOT WS_GROUP
     ICON            IDR_MAINFRAME,IDC_STATIC,9,9,20,20,SS_SUNKEN
     LTEXT           "Keeps dGPU idle + sits in tray icon. Options:",IDC_STATIC,6,34,237,9,NOT WS_GROUP
@@ -145,15 +145,15 @@ BEGIN
     BEGIN
         BLOCK "040904b0"
         BEGIN
-            VALUE "Comments", "Tray Power"
-            VALUE "CompanyName", "Jihad Obeid Software"
-            VALUE "FileDescription", "Control laptop power from a tray icon."
-            VALUE "FileVersion", "1, 5, 0, 0"
+            VALUE "Comments", "Tray Power D3"
+            VALUE "CompanyName", "J Obeid Software"
+            VALUE "FileDescription", "TrayPwrD3"
+            VALUE "FileVersion", "1, 6, 0, 0"
             VALUE "InternalName", "TrayPwr"
-            VALUE "LegalCopyright", "Copyright © 2017  Jihad Obeid, M.D."
+            VALUE "LegalCopyright", "Copyright © 2017  J. S. Obeid"
             VALUE "OriginalFilename", "TrayPwr.exe"
-            VALUE "ProductName", "Tray Power"
-            VALUE "ProductVersion", "1, 5, 0, 0"
+            VALUE "ProductName", "Tray Power D3"
+            VALUE "ProductVersion", "1, 6, 0, 0"
         END
     END
     BLOCK "VarFileInfo"
