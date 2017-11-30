@@ -5,7 +5,7 @@ Other functionality: single click turns monitor off to save power until you wake
 
 This is to address the [Windows 10 and Optimus problem of stutters and mouse hangs](https://forums.geforce.com/default/topic/860554/geforce-mobile-gpus/windows-10-and-optimus/15/). For more about this issue see description on answers.microsoft [Intel + NVIDIA Laptop Freeze Problem](https://answers.microsoft.com/en-us/windows/forum/windows_10-hardware/mobile-gtx-1060-freeze-problem/93e7004a-62b1-4211-8e37-4c136608865e).
 
-For best results run manually after windows starts in order to keep resource utilization low.
+For best results *run manually after windows starts* in order to keep resource utilization low. Putting in Windows Autostart folder may casue higher resource utilization.
 
 # Installation
 Simply download the [executable](https://github.com/jobeid/TrayPwrD3/tree/master/executable), uncompress it in any folder and run it. 
