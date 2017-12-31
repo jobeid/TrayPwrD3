@@ -17,4 +17,4 @@ Notes:
 Tray icon:   ![Tray icon](screenshots/traypwr_icon1.png?raw=true "Tray icon")
 
 
-Right click menu:  ![Menu](screenshots/traypwr_rightclick.png?raw=true "Menu")
+Right click menu:  ![Menu](screenshots/traypwr_rightclick1.png?raw=true "Menu")
