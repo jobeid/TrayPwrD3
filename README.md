@@ -1,7 +1,7 @@
 # TrayPwrD3
 **Keeps dGPU on but idle** until needed. This addresses the Windows 10 stutter/mouse freeze on dual GPU laptops. TrayPwrD3 runs in the background and stays in a tray icon.
 
-![Tray icon](screenshots/traypwr_icon.png?raw=true "Tray icon")
+![Tray icon](screenshots/traypwr_icon1.png?raw=true "Tray icon")
 
 **Other functionality**: single click turns monitor off to save power until you wake it up by moving the mouse or using the keyboard; provides several menu options on right click; more details in Help menu.
 
