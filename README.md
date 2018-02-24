@@ -8,7 +8,7 @@ This is to address the [Windows 10 and Optimus problem of stutters and mouse han
 # Installation
 Simply download the [executable](https://github.com/jobeid/TrayPwrD3/tree/master/executable), uncompress it in any folder and run it. 
 Notes:
-- The executable was compliled for 64bit windows.
+- The executable was compliled for 64bit windows. Direct3D version 12 is required.
 - If you don't already have [Visual C++ Redistributable for Visual Studio 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48145) installed, then you could download and install it from Microsoft [here](https://go.microsoft.com/fwlink/?LinkId=746572).)
 - Optional: If you would like to start TrayPwrD3 when windows starts, you can place a shortcut of the executable in the startup folder (located at %USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\STARTUP). You can quickly open the startup folder by tapping the Windows key+R to bring up the "Run" dialog, and type `shell:startup` then enter.
 
