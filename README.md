@@ -13,10 +13,10 @@ Notes:
 - If you don't already have [Visual C++ Redistributable for Visual Studio 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48145) installed, then you could download and install it from Microsoft [here](https://go.microsoft.com/fwlink/?LinkId=746572).)
 - Optional: If you would like to start TrayPwrD3 when windows starts, you can place a shortcut of the executable in the startup folder (located at %USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\STARTUP). You can quickly open the startup folder by tapping the Windows key+R to bring up the "Run" dialog, and type `shell:startup` then enter.
 
-# Using the program
-When you start the program it simply runs in the background in a tray icon, keeping the dGPU on but idle. This addresses the well known Windows 10 stutter/mouse freeze on some dual GPU laptops.
+# Using the App
+When you start the app it simply runs in the background in a tray icon, keeping the dGPU on but idle. This addresses the well known Windows 10 stutter/mouse freeze on some dual GPU laptops.
 
-**To stop the program** simpley right-click the icon and click exit. **There is _no_ need to reboot the system**.
+**To stop the app** simpley right-click the icon and click exit. **There is _no_ need to reboot the system**.
 
 # Screenshots
 
