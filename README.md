@@ -8,6 +8,7 @@ This is to address the [Windows 10 and Optimus problem of stutters and mouse han
 ## Windows 10 May 2020 Update
 
 With this latest update Microsoft fixed the latency issue. However, you will need NVIDIA driver version 451.48 or later. For more information see this Windows Latest post: [Nvidia GeForce 451.48 adds Windows 10 GPU scheduling feature](https://www.windowslatest.com/2020/06/24/nvidia-geforce-451-48-windows-10-hardware-accelerated-gpu-scheduling/).
+Update 7/14/2020: Still noticiing some brief hanging during some activities with explorer. So not totally fixed.
 
 # Installation
 Simply download the [executable](https://github.com/jobeid/TrayPwrD3/tree/master/executable), uncompress it in any folder and run it. 
