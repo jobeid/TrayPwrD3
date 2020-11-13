@@ -51,7 +51,13 @@ bool D3dx12jo::InitD3D(HWND hwnd_tmp)
 		}
 		if (desc.VendorId == 32902)
 		{
-			// we dont want INTEL device (id=0x8086) see http://pcidatabase.com/search.php?vendor_search_str=0x8086
+			// we dont want INTEL device (id=0x8086) look up vendor id in device manager
+			adapterIndex++;
+			continue;
+		}
+		if (desc.VendorId == 4098)
+		{
+			// we dont want AMD device (id=0x1002) look up vendor id in device manager
 			adapterIndex++;
 			continue;
 		}

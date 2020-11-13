@@ -45,7 +45,7 @@ BOOL CAboutDlg::OnInitDialog()
 {
 	const char *mylic =
 		"MIT License\r\n\r\n"
-		"Copyright© 2017 J.S. Obeid\r\n\r\n"
+		"Copyright© 2020 J.S. Obeid\r\n\r\n"
 		"Permission is hereby granted, free of charge, to any person obtaining a copy\r\n"
 		"of this software and associated documentation files(the \"Software\"), to deal\r\n"
 		"in the Software without restriction, including without limitation the rights\r\n"

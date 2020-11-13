@@ -112,8 +112,8 @@ CAPTION "TrayPower D3 Help"
 FONT 8, "MS Sans Serif", 0, 0, 0x0
 BEGIN
     DEFPUSHBUTTON   "&OK",IDOK,206,64,56,15,WS_GROUP
-    LTEXT           "TrayPower D3 (Keeps dGPU on/idle)\nVersion 1.6.0.0",IDC_STATIC,36,7,154,17,NOT WS_GROUP
-    LTEXT           "Copyright © 2017  J. S. Obeid",IDC_STATIC,36,23,167,9,NOT WS_GROUP
+    LTEXT           "TrayPower D3 (Keeps dGPU on/idle)\nVersion 1.7.0.0",IDC_STATIC,36,7,154,17,NOT WS_GROUP
+    LTEXT           "Copyright © 2020  J. S. Obeid",IDC_STATIC,36,23,167,9,NOT WS_GROUP
     ICON            IDR_MAINFRAME,IDC_STATIC,9,9,20,20,SS_SUNKEN
     LTEXT           "Keeps dGPU idle + sits in tray icon. Options:",IDC_STATIC,6,34,237,9,NOT WS_GROUP
     LTEXT           "Left click: turns monitor off, and saves battery power without powering down. ",IDC_STATIC,6,42,240,9,NOT WS_GROUP
@@ -129,8 +129,8 @@ END
 //
 
 VS_VERSION_INFO VERSIONINFO
- FILEVERSION 1,5,0,0
- PRODUCTVERSION 1,5,0,0
+ FILEVERSION 1,7,0,0
+ PRODUCTVERSION 1,7,0,0
  FILEFLAGSMASK 0x3fL
 #ifdef _DEBUG
  FILEFLAGS 0x1L
@@ -148,12 +148,12 @@ BEGIN
             VALUE "Comments", "Tray Power D3"
             VALUE "CompanyName", "J Obeid Software"
             VALUE "FileDescription", "TrayPwrD3"
-            VALUE "FileVersion", "1, 6, 0, 0"
+            VALUE "FileVersion", "1.7.0.0"
             VALUE "InternalName", "TrayPwr"
-            VALUE "LegalCopyright", "Copyright © 2017  J. S. Obeid"
+            VALUE "LegalCopyright", "Copyright © 2020  J. S. Obeid"
             VALUE "OriginalFilename", "TrayPwr.exe"
             VALUE "ProductName", "Tray Power D3"
-            VALUE "ProductVersion", "1, 6, 0, 0"
+            VALUE "ProductVersion", "1.7.0.0"
         END
     END
     BLOCK "VarFileInfo"
