@@ -11,6 +11,8 @@ This is to address the [Windows 10 and Optimus problem of stutters and mouse han
 
 **Update 11/12/2020:** Still noticing some major hanging during some activities with explorer and when running certain apps e.g. Media Player Classic on AMD Ryzen systems. So NVIDIA GPU activation latency remains a problem. The updated version of TrayPwrD3 (v2020-11) now supports AMD Ryzen systems and prevents the GPU stutter or latency on both Intel and AMD Ryzen systems.
 
+**Update 12/25/2025:** Starting the app now checks if there is a running instance and gives the option to kill it.
+
 # Installation
 Simply download the latest version of the [executable](https://github.com/jobeid/TrayPwrD3/tree/master/executable), uncompress it in any folder and run it. 
 Notes:
